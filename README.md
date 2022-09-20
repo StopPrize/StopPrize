@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StopPrize
 - 📖 Bachelor of Science in Physics
-- 👀 I’m interested in Clone Coding of the program in MES.
+- 👀 I’m interested in .....
 - 🌱 I’m currently learning Computer Science in KNOU.
 
 
